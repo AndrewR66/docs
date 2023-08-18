@@ -242,6 +242,9 @@ You can now start your dev-ready container.
 
     ```console
     $ nodemon src/index.js
+    ```
+    Expected output:
+    ```text
     [nodemon] 2.0.20
     [nodemon] to restart at any time, enter `rs`
     [nodemon] watching dir(s): *.*
@@ -263,6 +266,9 @@ You can now start your dev-ready container.
 
     ```console
     mysql> select * from todo_items;
+    ```
+    Expected output:
+    ```text
     +--------------------------------------+--------------------+-----------+
     | id                                   | name               | completed |
     +--------------------------------------+--------------------+-----------+
