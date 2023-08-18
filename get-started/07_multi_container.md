@@ -242,6 +242,8 @@ You can now start your dev-ready container.
 
     ```console
     $ nodemon src/index.js
+    ```
+    ```console    
     [nodemon] 2.0.20
     [nodemon] to restart at any time, enter `rs`
     [nodemon] watching dir(s): *.*
